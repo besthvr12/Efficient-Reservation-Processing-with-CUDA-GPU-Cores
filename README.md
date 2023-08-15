@@ -1,7 +1,7 @@
 # Efficient-Reservation-Processing-with-CUDA-GPU-Cores
 # Facility Reservation System
 
-Welcome to the Facility Reservation System! In this innovative application, users can seamlessly reserve facility rooms in various computer centres for their specific needs. The system operates on a dynamic framework, allowing users to interactively book slots for diverse facilities, from supercomputers to personal computers, all with varying capacities.
+In this innovative application, users can seamlessly reserve facility rooms in various computer centres for their specific needs. The system operates on a dynamic framework, allowing users to interactively book slots for diverse facilities, from supercomputers to personal computers, all with varying capacities.
 
 ## Overview
 
@@ -27,4 +27,3 @@ Discover the impact of successful reservations and the insights gained from trac
 
 ---
 
-Join us in this journey of efficient facility reservations, where technology harmonizes with user needs, and every slot counts!
